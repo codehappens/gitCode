@@ -1,1 +1,2 @@
 Hello, I am a text file. 
+Now I'm a changed text file, for practice of course.
