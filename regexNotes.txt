@@ -1,0 +1,14 @@
+Regex Notes: matches... \ in python \\ in java
+
+"hackerrank"		the exact string hackerrank
+\. 			anything except for a newline
+\d			any digit[0-9]
+\D			any character that is not a digit
+\s			whitespace char
+\S			non whtiespace char
+\w			word char ie alphanumeric characters (-, - and -) and underscores (_)
+\W			other than alphanumeric characters (-, - and -) and underscore (_).
+^123			matches 123 at start of string
+123$			matches 123 at end of string
+[^]			any character that is not in the square brackets
+
